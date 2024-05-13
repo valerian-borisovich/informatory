@@ -1,7 +1,6 @@
 # Informatory
 
+##
 
-```dotenv
-VERCEL_API=prj_xnD5y6HOUcUPldeUPWR46WfXLFgA
+#### URL: [Informatory](https://informatory.vercel.app)
 
-```

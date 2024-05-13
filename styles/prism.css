@@ -281,7 +281,7 @@ pre[class*="language-"] > code[class*="language-"] {
   position: absolute;
   left: 0;
   right: 0;
-  padding: inherit 0;
+  padding: inherit;
   margin-top: 1em;
   background: #f7ebc6;
   box-shadow: inset 5px 0 0 #f7d87c;
