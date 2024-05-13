@@ -1,5 +1,4 @@
 {
-  "key": "prj_xnD5y6HOUcUPldeUPWR46WfXLFgA",
   "outputDirectory": "public",
   "installCommand": "npm install",
   "buildCommand": "npm run export"
