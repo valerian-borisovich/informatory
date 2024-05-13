@@ -1,10 +1,25 @@
-.DS_Store
-markdown.db
-node_modules/
-.next/
-out/
+# ###
+#
+
+# ###
+**/.DS_Store
+
+# ###
+**/package-lock.json
+**/node_modules/
+**/.next/
+
+# ###
+**/out/
+**/dist/
+
+# ###
 .obsidian/
+.obsidian.*/
 .markdowndb/
+markdown.db
+
+# ###
 tsconfig.tsbuildinfo
 .vscode/
 .idea/
