@@ -1,0 +1,19 @@
+{
+  "name": "@informatorty/core",
+  "version": "1.0.1",
+  "description": "Informatorty core functions",
+  "main": "lib/index.js",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "types": "lib/index.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.0.0"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}

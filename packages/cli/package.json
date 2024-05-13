@@ -1,0 +1,26 @@
+{
+  "name": "@informatory/cli",
+  "version": "1.0.1",
+  "description": "Informatorty CLI",
+  "main": "lib/main.js",
+  "bin": {
+    "cli": "bin/cli.js"
+  },
+  "scripts": {
+    "compile": "tsc",
+    "test": "node lib/main.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@informatorty/core": "^1.0.0",
+    "@types/node": "^20.0.0",
+    "minimist": "latest",
+    "ts-node": "latest",
+    "tslib": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
